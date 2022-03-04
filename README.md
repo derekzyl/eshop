@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+###   THIS IS A PROTOTYPE OF AN ECOMMERCE APP 
 
 This project is a starting point for a Flutter application.
 
